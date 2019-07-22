@@ -1,0 +1,25 @@
+{
+  "name": "npm-lab-re-coded-gaziantep-2019",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nour-alhuda/npm-lab-re-coded-gaziantep-2019.git"
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nour-alhuda/npm-lab-re-coded-gaziantep-2019/issues"
+  },
+  "homepage": "https://github.com/nour-alhuda/npm-lab-re-coded-gaziantep-2019#readme"
+}
